@@ -13,10 +13,6 @@ The data also includes demographic information about the complainants and the of
 
 **Objective:** We intend to use the demographic information provided in conjunction with the outcomes of each case in order to investigate if gender played a role in the validation of a complainant’s case.
 
-## Authors
-> **Felipe Lorenzi**
-> <br/>
-> lorenzifelipe7@gmail.com
 
 > **Anna Preger**
 > <br/>
